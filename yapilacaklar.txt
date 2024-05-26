@@ -1,0 +1,5 @@
+redux ve zustand için drive güncellenecek
+redux sunucu taraflı state saklama araştırılacak
+
+Bölüm 17 Bitirilecek
+Bölüm 26 bitirilecek
